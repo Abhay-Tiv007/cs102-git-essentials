@@ -3,3 +3,5 @@ git branch : We can use the git branch command for creating, listing and deletin
 git clone : Command for downloading existing source code from a remote repository.
 git checkout : Command for switching from one branch to another. We can also use it for checking out files and commits.
 git push : Git push uploads your commits to the remote repository.
+
+In the last class we have given a brief description of markdown script to make nice and clean simple webpages. Markdown is an easy to use and understandable language to create webpages. We've learnt about the basics of how to create Titles, Subtitles, Sub-Subtitles and paragraphs using markdown language. An introduction of IDE Visual Studio Code was also given and we have used an extension "Markdown All in One" to preview our markdown code as an html webpage and source code editor for .md or .markdown files in VS Code.
