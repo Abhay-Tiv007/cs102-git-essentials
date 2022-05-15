@@ -1,0 +1,5 @@
+git add : Moves changes from the working directory to the staging area.
+git branch : We can use the git branch command for creating, listing and deleting branches.
+git clone : Command for downloading existing source code from a remote repository.
+git checkout : Command for switching from one branch to another. We can also use it for checking out files and commits.
+git push : Git push uploads your commits to the remote repository.
